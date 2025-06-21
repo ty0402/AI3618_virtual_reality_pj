@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 2aa3461cbd2e42048a9c17bd53de0a65
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_4920P
+    second: {fileID: 2100000, guid: 1d8af5ebb438f1e42be5cf5b84de8f43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5101P
+    second: {fileID: 2100000, guid: 621251e964e01c94bb998a6db96d4eb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5131P
+    second: {fileID: 2100000, guid: e866f0ace03f10d4abf1475062afb966, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5153P
+    second: {fileID: 2100000, guid: e8899911cb2831a41a3e233410119edc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5167P
+    second: {fileID: 2100000, guid: 8a594ba556d18e041a760d3458469d6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5192P
+    second: {fileID: 2100000, guid: a363e7addc7d42744ab90ecbcc074d7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5227P
+    second: {fileID: 2100000, guid: 816ce6d6e43884548b1f81aaa9190fba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5249P
+    second: {fileID: 2100000, guid: 484b1115824b6fb4a8887e8033547296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5274P
+    second: {fileID: 2100000, guid: 8e1e9418dcc2c4e4cb2faee2d32885ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5296P
+    second: {fileID: 2100000, guid: 1dd951b67676b4946b90832d6a58a1d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5318P
+    second: {fileID: 2100000, guid: 8d9406595383cca4a9acec4efe311369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5529P
+    second: {fileID: 2100000, guid: 0f3b9ed7fcbfb95408e9cca18cbd7d11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5563P
+    second: {fileID: 2100000, guid: 5f219d20cbdf3624db83a58d502b1d94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5597P
+    second: {fileID: 2100000, guid: eb88a24e26a0f6a45b56aad1ee3c6d88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5631P
+    second: {fileID: 2100000, guid: ac1a047cae0a99e4192c6bb63f64270c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5649P
+    second: {fileID: 2100000, guid: b5f6e83f4d5dc0f42b143dbba202329c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5663P
+    second: {fileID: 2100000, guid: 71d7a6f892f6c5444bbaa835e947bb84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5677P
+    second: {fileID: 2100000, guid: 32052af8bcbb46a4c9aaf05564e86c4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5695P
+    second: {fileID: 2100000, guid: b5b2ba7c7988b2043bdaafc795338f68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5729P
+    second: {fileID: 2100000, guid: 4b33ea3f6b06cc2488f64c877695e657, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5743P
+    second: {fileID: 2100000, guid: dcc87f6e162379a4ba6662892a242b2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5757P
+    second: {fileID: 2100000, guid: b01e0b8c35560934c8eaeb03a04fbd73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5799P
+    second: {fileID: 2100000, guid: 15d4b1aacaa4c7e45b7e4e65f34a3209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5813P
+    second: {fileID: 2100000, guid: 378ec13838dc126449a1472ed4bc46be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5827P
+    second: {fileID: 2100000, guid: 6ba0a3458c5d3cf43a3f32d9c2db4a3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5844P
+    second: {fileID: 2100000, guid: faab4493852f57d4b91ecb46850b912c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5878P
+    second: {fileID: 2100000, guid: 4c0f4ecaf63f2a346a9f7d04c5ec1ff4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5892P
+    second: {fileID: 2100000, guid: 558aca61af68ca64ab4e1aefd56ab2f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5906P
+    second: {fileID: 2100000, guid: 2bd6586dc7469e846b6b1ee6ccb936da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5940P
+    second: {fileID: 2100000, guid: 991c8de80d0907f4c8a9d1e9ae836d26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_5974P
+    second: {fileID: 2100000, guid: 43b8c2201b46c2e4da25c988c74e75b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_6008P
+    second: {fileID: 2100000, guid: 3d64a0c09a90dab459c700e29e3c4d2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_6042P
+    second: {fileID: 2100000, guid: f9825094c9ad4224db33faef8e7c0090, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_6056P
+    second: {fileID: 2100000, guid: b627cea98b4639b4e977271def0987a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_6070P
+    second: {fileID: 2100000, guid: e024af3bf6de3964994925581195ec07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_6084P
+    second: {fileID: 2100000, guid: fee64eff840e50c41a0994ff097453b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_6098P
+    second: {fileID: 2100000, guid: fa11b61e22c9990449f7c93d173b44de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_6112P
+    second: {fileID: 2100000, guid: d4429f22148c9df459a3ce58d2b5604b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_6146P
+    second: {fileID: 2100000, guid: 5758dfdd946b2dd4a8b4c47ef4da4a27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_6160P
+    second: {fileID: 2100000, guid: 9f2d8038213e6b940818188a05151ad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingmo_6174P
+    second: {fileID: 2100000, guid: 0d9d1409b72fc6543aa67f90947d5105, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: qingmo_3d80dc4f-1b4f-4b61-9ac2-38ffaad75eec
+    second: {fileID: 2800000, guid: 2138fe85e89ad2c46b014fedf46e21d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: qingmo_3ddad3c3-944f-4b85-a305-2ab627681e8e
+    second: {fileID: 2800000, guid: 0b17ac6f9359eb746a89353cb9f6e41c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: qingmo_4ad0e60c-ced7-4515-b930-694f8bdce3f4
+    second: {fileID: 2800000, guid: 0950e9f96b9c8d94fa70d54e31fe8d2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: qingmo_6c20da66-2522-428f-bb06-d76e08782d96
+    second: {fileID: 2800000, guid: 93d60868b8560f74fb446059f72385ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: qingmo_7e34f5b7-6cf6-4910-a4f5-a869001a12f1
+    second: {fileID: 2800000, guid: 8e85db2bb232f0f418bdce0abd706be1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: qingmo_86e84ded-f6d0-47c8-aacf-dbfc9cf19d62
+    second: {fileID: 2800000, guid: 801b13b021bae0f4fafea4e35c02fe0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: qingmo_95f2cf10-a1ea-4b99-8fbc-7c4c73e53f61
+    second: {fileID: 2800000, guid: fa68f011ba48045439f199b53023b615, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: qingmo_b84defee-0502-4301-8b9d-67f9257741c0
+    second: {fileID: 2800000, guid: 99671041aa0d92d41a4f3717e413bfa0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: qingmo_b87341bd-7373-44fa-8d5b-8f3658a3e25e
+    second: {fileID: 2800000, guid: b86b4b9fc64a3e841a074a1d901e2f50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: qingmo_be5e76cf-89a6-4cdd-8f90-66fa90918cdc
+    second: {fileID: 2800000, guid: 066c681ce4de029479eaa7675584e51e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: qingmo_cd3380f2-8425-4fa1-8100-b1bf63a23b37
+    second: {fileID: 2800000, guid: 20f407f6c79bfcc42a078c2954d54758, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: qingmo_d0d32753-53f0-44c7-8aca-2e51de6d5de5
+    second: {fileID: 2800000, guid: edb141a8801d3c945ad6f3d5deba8c1c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: qingmo_d9b216c3-b9ad-4d14-b8d2-b7d23745991e
+    second: {fileID: 2800000, guid: 0a5163ede1822b6429e632eb31bd0c2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: qingmo_eda0b017-4683-4305-b9af-9fd20cfa972f
+    second: {fileID: 2800000, guid: de32f6ac637ab834d8df2a3f2c18200d, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UnityProjects\\VR_Tea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|E:\\UnityProjects\\VR_Tea\\assets\\script\\level1manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\level1manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|E:\\UnityProjects\\VR_Tea\\assets\\script\\systemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|E:\\UnityProjects\\VR_Tea\\assets\\angletracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|solutionrelative:assets\\angletracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|E:\\UnityProjects\\VR_Tea\\assets\\script\\waterinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\waterinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|e:\\unityprojects\\vr_tea\\assets\\script\\hoverfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hoverfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|E:\\UnityProjects\\VR_Tea\\assets\\script\\selectfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\selectfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|e:\\unityprojects\\vr_tea\\assets\\script\\tagset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tagset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UnityProjects\\VR_Tea\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@3.1.2\\Runtime\\Utilities\\ExposedRegistrationList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@3.1.2\\Runtime\\Utilities\\ExposedRegistrationList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|E:\\UnityProjects\\VR_Tea\\assets\\script\\waterinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\waterinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|E:\\UnityProjects\\VR_Tea\\assets\\script\\rotationtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rotationtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|E:\\UnityProjects\\VR_Tea\\assets\\script\\teacanister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\teacanister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UnityProjects\\VR_Tea\\Assets\\SystemManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SystemManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|E:\\UnityProjects\\VR_Tea\\assets\\quickoutline\\scripts\\outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|solutionrelative:assets\\quickoutline\\scripts\\outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|E:\\UnityProjects\\VR_Tea\\assets\\dotween\\modules\\dotweenmoduleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB5FD9D-D7C1-793D-09A3-3BF08735A3F3}|Assembly-CSharp.csproj|solutionrelative:assets\\dotween\\modules\\dotweenmoduleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UnityProjects\\VR_Tea\\Assets\\Tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UnityProjects\\VR_Tea\\Assets\\TeaCanister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TeaCanister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UnityProjects\\VR_Tea\\Assets\\TeaTaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TeaTaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SystemManager.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\SystemManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SystemManager.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\SystemManager.cs",
+              "RelativeToolTip": "Assets\\Script\\SystemManager.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAUwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:24:15.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Level1Manager.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\Level1Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Level1Manager.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\Level1Manager.cs",
+              "RelativeToolTip": "Assets\\Script\\Level1Manager.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAcwJsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:34:09.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TagSet.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\TagSet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TagSet.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\TagSet.cs",
+              "RelativeToolTip": "Assets\\Script\\TagSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:33:07.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HoverFilter.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\HoverFilter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HoverFilter.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\HoverFilter.cs",
+              "RelativeToolTip": "Assets\\Script\\HoverFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:31:59.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExposedRegistrationList.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@3.1.2\\Runtime\\Utilities\\ExposedRegistrationList.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@3.1.2\\Runtime\\Utilities\\ExposedRegistrationList.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@3.1.2\\Runtime\\Utilities\\ExposedRegistrationList.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@3.1.2\\Runtime\\Utilities\\ExposedRegistrationList.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDkAAADAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:25:54.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectFilter.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\SelectFilter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SelectFilter.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\SelectFilter.cs",
+              "RelativeToolTip": "Assets\\Script\\SelectFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:18:06.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WaterInteractable.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\WaterInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WaterInteractable.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\WaterInteractable.cs",
+              "RelativeToolTip": "Assets\\Script\\WaterInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:07:59.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AngleTracker.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\AngleTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\AngleTracker.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\AngleTracker.cs",
+              "RelativeToolTip": "Assets\\AngleTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:14:48.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WaterInteractor.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\WaterInteractor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WaterInteractor.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\WaterInteractor.cs",
+              "RelativeToolTip": "Assets\\Script\\WaterInteractor.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:05:21.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeaCanister.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\TeaCanister.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TeaCanister.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\TeaCanister.cs",
+              "RelativeToolTip": "Assets\\Script\\TeaCanister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:05:08.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RotationTracker.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\RotationTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RotationTracker.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\Script\\RotationTracker.cs",
+              "RelativeToolTip": "Assets\\Script\\RotationTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:41:36.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DOTweenModuleUI.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\DOTween\\Modules\\DOTweenModuleUI.cs",
+              "RelativeDocumentMoniker": "Assets\\DOTween\\Modules\\DOTweenModuleUI.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\DOTween\\Modules\\DOTweenModuleUI.cs",
+              "RelativeToolTip": "Assets\\DOTween\\Modules\\DOTweenModuleUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:21:32.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Outline.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "RelativeDocumentMoniker": "Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "RelativeToolTip": "Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:21:18.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tea.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\Tea.cs",
+              "RelativeDocumentMoniker": "Assets\\Tea.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\Tea.cs",
+              "RelativeToolTip": "Assets\\Tea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:53:02.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SystemManager.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\SystemManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SystemManager.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\SystemManager.cs",
+              "RelativeToolTip": "Assets\\SystemManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:07:45.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TeaCanister.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\TeaCanister.cs",
+              "RelativeDocumentMoniker": "Assets\\TeaCanister.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\TeaCanister.cs",
+              "RelativeToolTip": "Assets\\TeaCanister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:26:20.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TeaTaker.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\VR_Tea\\Assets\\TeaTaker.cs",
+              "RelativeDocumentMoniker": "Assets\\TeaTaker.cs",
+              "ToolTip": "E:\\UnityProjects\\VR_Tea\\Assets\\TeaTaker.cs",
+              "RelativeToolTip": "Assets\\TeaTaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:47:01.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
