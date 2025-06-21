@@ -1,4 +1,4 @@
-# VR_Tea - Unity VR 泡茶模拟项目
+# VR_Tea - Unity VR 泡茶模拟项目🍵
 
 ## 项目简介
 
@@ -34,7 +34,7 @@
    - 打开 `Window > Package Manager`，确保已安装 XR Interaction Toolkit、XR Hands、Shader Graph 等依赖。
 
 4. **下载场景**
-- 放入`Assets\Resources\Build\茶文化馆.fbx`
+- 放入`Assets\Resources\Build\茶文化馆.fbx`(相关资源来自网络和素材库)
 
 
 ---
